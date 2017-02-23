@@ -1,4 +1,4 @@
-# Strange clock
+# Strange watch
 
 ## Task
 
