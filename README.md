@@ -3,6 +3,7 @@
 ## Task
 
 Let's imagine:
+
   1) We have digital watch
 
   2) Our watch uses 7th system base
@@ -16,7 +17,7 @@ Let's imagine:
   6) If number of digits of current hours or minutes is less then max possible, the left digits will be `0`
 
   7) Input parameters are in the 10th base system
-  
+
 
 Your task is to calculate how many times a day all digits on watch are different.
 
